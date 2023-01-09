@@ -1,4 +1,4 @@
-# Concordance-
+# Concordance
 Created data analysis program in C that takes input text files and alphabetically sorts them via concordance
 
 Concordance is, essentially, a way of indexing text by alphabetically sorting principle words within the context of their respective lines. For data analysis, it makes
